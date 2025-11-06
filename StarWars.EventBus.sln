@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.EventHub.Models", "StarWars.EventHub.Models\StarWars.EventHub.Models.csproj", "{436F9333-AE93-1253-52C6-E8101AC42758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.EventHub.Services", "StarWars.EventHub.Services\StarWars.EventHub.Services.csproj", "{E50B89E9-E538-9C9A-385E-9B8238D82629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{436F9333-AE93-1253-52C6-E8101AC42758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436F9333-AE93-1253-52C6-E8101AC42758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436F9333-AE93-1253-52C6-E8101AC42758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436F9333-AE93-1253-52C6-E8101AC42758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50B89E9-E538-9C9A-385E-9B8238D82629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50B89E9-E538-9C9A-385E-9B8238D82629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50B89E9-E538-9C9A-385E-9B8238D82629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50B89E9-E538-9C9A-385E-9B8238D82629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93C77A73-0FEA-4E53-AB2A-B2A59CC6C66F}
+	EndGlobalSection
+EndGlobal
